@@ -1,0 +1,162 @@
+{
+  "profile": {
+    "name": "Chetan Khobragade",
+    "title": "Senior DevOps Engineer",
+    "tagline": "Automating everything",
+    "email": "chetan8975314744@gmail.com",
+    "phone": "+918329086058",
+    "location": "Pune, India",
+    "avatar": "/avatar.png",
+    "profilePhoto": "/api/uploads/1769924263922-r1vheb.jpg",
+    "resumeFile": "/api/uploads/1769924748801-bn72fw.pdf",
+    "social": {
+      "github": "https://github.com/chetan55567",
+      "linkedin": "https://linkedin.com/in/itschetan",
+      "twitter": "",
+      "instagram": "",
+      "website": "chetan.com"
+    },
+    "summary": "Passionate DevOps Engineer with 5+ years of experience in cloud infrastructure, CI/CD pipelines, and container orchestration. Expert in AWS, Kubernetes, and Infrastructure as Code.",
+    "skills": [
+      {
+        "name": "Jenkins",
+        "level": 85,
+        "category": "CI/CD"
+      },
+      {
+        "name": "GitHub Actions",
+        "level": 90,
+        "category": "CI/CD"
+      },
+      {
+        "name": "Python",
+        "level": 80,
+        "category": "Programming"
+      },
+      {
+        "name": "Linux",
+        "level": 95,
+        "category": "Operating Systems"
+      },
+      {
+        "name": "Prometheus",
+        "level": 85,
+        "category": "Monitoring"
+      },
+      {
+        "name": "Grafana",
+        "level": 88,
+        "category": "Monitoring"
+      }
+    ],
+    "experience": [
+      {
+        "id": "exp1",
+        "company": "Tech Corp",
+        "position": "Senior DevOps Engineer",
+        "startDate": "2021-01",
+        "endDate": "Present",
+        "description": "Leading DevOps initiatives for a team of 50+ engineers. Implemented Kubernetes clusters handling 10M+ requests/day.",
+        "highlights": [
+          "Reduced deployment time by 80% using GitOps practices",
+          "Designed multi-region disaster recovery architecture",
+          "Mentored junior engineers on cloud best practices"
+        ]
+      },
+      {
+        "id": "exp2",
+        "company": "StartupXYZ",
+        "position": "DevOps Engineer",
+        "startDate": "2019-03",
+        "endDate": "2020-12",
+        "description": "Built and maintained CI/CD pipelines for microservices architecture.",
+        "highlights": [
+          "Migrated infrastructure to AWS, reducing costs by 40%",
+          "Implemented Infrastructure as Code using Terraform",
+          "Set up comprehensive monitoring with Prometheus & Grafana"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "proj1",
+        "name": "K8s Auto-Scaler",
+        "description": "Custom Kubernetes auto-scaler based on business metrics",
+        "technologies": [
+          "Go",
+          "Kubernetes",
+          "Prometheus"
+        ],
+        "link": "https://github.com/johndoe/k8s-autoscaler",
+        "image": null
+      },
+      {
+        "id": "proj2",
+        "name": "CI/CD Pipeline Generator",
+        "description": "Tool to generate CI/CD pipelines from project configuration",
+        "technologies": [
+          "Python",
+          "GitHub Actions",
+          "Docker"
+        ],
+        "link": "https://github.com/johndoe/pipeline-gen",
+        "image": null
+      },
+      {
+        "id": "proj3",
+        "name": "Infrastructure Dashboard",
+        "description": "Real-time infrastructure monitoring dashboard",
+        "technologies": [
+          "React",
+          "Grafana",
+          "Node.js"
+        ],
+        "link": "https://github.com/johndoe/infra-dashboard",
+        "image": null
+      }
+    ],
+    "education": [
+      {
+        "id": "edu1",
+        "institution": "University of Technology",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "startDate": "2014",
+        "endDate": "2018",
+        "description": "Graduated with honors. Focus on distributed systems and networking."
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert1",
+        "name": "AWS Solutions Architect Professional",
+        "issuer": "Amazon Web Services",
+        "date": "2023",
+        "link": ""
+      },
+      {
+        "id": "cert2",
+        "name": "Certified Kubernetes Administrator (CKA)",
+        "issuer": "CNCF",
+        "date": "2022",
+        "link": ""
+      },
+      {
+        "id": "cert3",
+        "name": "HashiCorp Terraform Associate",
+        "issuer": "HashiCorp",
+        "date": "2022",
+        "link": ""
+      }
+    ]
+  },
+  "settings": {
+    "theme": "light",
+    "accentColor": "#d56307",
+    "showEmail": true,
+    "showPhone": true,
+    "showInstagram": true,
+    "enableAnimations": true,
+    "particleCount": 200
+  }
+}
