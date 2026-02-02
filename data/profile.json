@@ -1,20 +1,20 @@
 {
   "profile": {
-    "name": "Chetan Khobragade",
+    "name": "John Wick",
     "title": "Senior DevOps Engineer",
     "tagline": "Automating everything",
-    "email": "chetan8975314744@gmail.com",
-    "phone": "+918329086058",
+    "email": "johnwick@example.com",
+    "phone": "+9100000000",
     "location": "Pune, India",
     "avatar": "/avatar.png",
     "profilePhoto": "/api/uploads/1769924263922-r1vheb.jpg",
     "resumeFile": "/api/uploads/1769924748801-bn72fw.pdf",
     "social": {
-      "github": "https://github.com/chetan55567",
+      "github": "Provide Url",
       "linkedin": "https://linkedin.com/in/itschetan",
       "twitter": "",
       "instagram": "",
-      "website": "chetan.com"
+      "website": "chetan.app"
     },
     "summary": "Passionate DevOps Engineer with 5+ years of experience in cloud infrastructure, CI/CD pipelines, and container orchestration. Expert in AWS, Kubernetes, and Infrastructure as Code.",
     "skills": [
