@@ -2,7 +2,6 @@
 
 A stunning, highly configurable portfolio website with 3D animations, AI-powered resume extraction, and a powerful admin panel.
 
-![Portfolio Preview](https://via.placeholder.com/1200x630/0a0a0f/0ea5e9?text=Dynamic+Portfolio)
 
 ## ✨ Features
 
